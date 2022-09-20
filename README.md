@@ -1,5 +1,6 @@
 # Simple CRUD API
 A simple backend API with full CRUD functionality.
+
 ![alt text](https://github.com/ChrisFAlvarenga/node-express-api/blob/main/image.png?raw=true)
 
 ## Description
